@@ -25,5 +25,5 @@ delete file- delete.js
 rename file- rename.js
 
 Ex.10 - Callback : 
-callback1.js
+callback1.js(require file input.txt)
 callback2.js
