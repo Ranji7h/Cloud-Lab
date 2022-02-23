@@ -27,3 +27,5 @@ rename file- rename.js
 Ex.10 - Callback : 
 callback1.js(require file input.txt)
 callback2.js
+
+Ex.8- Devops ibm cloud: ibm weather.txt
